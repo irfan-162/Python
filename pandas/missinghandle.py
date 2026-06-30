@@ -12,7 +12,7 @@ df_clean1 = df.dropna(how='any')
 print(len(df_clean1))
 
 #prob2
-df_clean2 = df.fillna(0)
+df_clean2 = df.fillna(0) 
 print(df_clean2)
 
 #prob3
