@@ -1,0 +1,61 @@
+label,message,message_length,num_exclamations,contains_link_word,contains_money_word
+ham,Reminder: your dentist appointment is scheduled for Thursday at 10 AM.,70,0,0,0
+spam,"Miracle weight loss pill burns fat while you sleep, order today!",64,1,0,0
+ham,Reminder that rent is due on the 1st of next month.,51,0,0,0
+spam,Act now! Your PayPal account will be locked unless you confirm your password.,77,1,0,0
+spam,"Click here to unlock exclusive adult content, 100% free access.",63,0,1,1
+spam,"Text STOP to unsubscribe, or claim your FREE vacation to the Bahamas now!",73,1,0,1
+ham,I've attached the updated budget spreadsheet for review.,56,0,0,0
+ham,Please confirm you received the signed contract I emailed yesterday.,68,0,0,0
+ham,Don't forget to pick up milk and eggs on your way home.,55,0,0,0
+spam,"Dear customer, verify your bank account now to avoid permanent suspension.",74,0,0,0
+spam,"Congratulations, your email has won the UK National Lottery! Reply to claim.",76,1,0,1
+ham,"Let's catch up this weekend, it's been a while since we talked.",63,0,0,0
+ham,Can you send me the quarterly report before end of day?,55,0,0,0
+ham,Please find attached the notes from today's team meeting.,57,0,0,0
+ham,"Hey, are we still on for lunch tomorrow at noon?",48,0,0,0
+ham,"Your flight confirmation number is AB12345, departure at 9 AM.",62,0,0,0
+spam,"Get rich quick! Earn $5000 a week working from home, no experience needed.",74,1,0,1
+spam,"Alert: Unusual activity detected on your account, login here to secure it.",74,0,0,0
+ham,"I finished the draft, let me know your thoughts when you get a chance.",70,0,0,0
+spam,WINNER!! As a valued customer you have been selected to receive a cash prize.,77,2,0,1
+spam,"Your Amazon order #4521 could not be processed, verify payment now.",67,0,0,0
+spam,Lose 20 pounds in 2 weeks with this one weird trick doctors hate!,65,1,0,0
+ham,"Good morning, hope you have a great start to the week.",54,0,0,0
+spam,"You qualify for a government grant of $9,500, apply before it expires.",70,0,0,1
+ham,"I'll be a few minutes late to the call, please start without me.",64,0,0,0
+spam,"Refinance your mortgage at 1.9% APR, limited spots available, apply now.",72,0,0,0
+spam,Congratulations! You've won a $1000 Walmart gift card. Click here to claim now!,79,2,1,1
+ham,Just checking in to see how you're doing after the move.,56,0,0,0
+spam,"Your Netflix payment failed, update your billing info immediately or lose access.",81,0,0,0
+ham,"Can you pick up the kids from school today, I have a late meeting.",66,0,0,0
+spam,Make money fast! Invest in crypto now and double your money in 24 hours.,72,1,0,0
+spam,"Meet local singles tonight, sign up free and start chatting instantly.",70,0,0,1
+ham,"Great job on the project, the client was really impressed.",58,0,0,0
+spam,"Earn a college degree in 30 days, no classes required, guaranteed diploma.",74,0,0,0
+ham,The train was delayed so I'll be home around 7 tonight.,55,0,0,0
+spam,"Free entry into our $1,000,000 sweepstakes! Text WIN to enter.",62,1,0,1
+ham,"Thanks for your help with the presentation, it went really well.",64,0,0,0
+ham,Looking forward to seeing you at the reunion next month.,56,0,0,0
+ham,Happy birthday! Hope you have an amazing day.,45,1,0,0
+ham,The Wi-Fi password for the office is posted on the whiteboard.,62,0,0,0
+spam,"Nigerian prince needs your help transferring $10 million, reply for details.",76,0,0,1
+ham,Can we reschedule our call to next Tuesday afternoon?,53,0,0,0
+ham,"The book club is meeting Thursday evening, hope you can make it.",64,0,0,0
+spam,You have been selected for a FREE iPhone 15! Claim your prize today.,68,1,0,1
+spam,"This is not a scam, you really did win, claim your reward within 24 hours.",74,0,0,1
+ham,"Attached is the invoice for last month's services, let me know if you have questions.",85,0,0,0
+spam,"Limited time offer: Buy one get one FREE on all prescription meds, no doctor needed.",84,0,0,1
+ham,"The meeting has been moved to 3 PM, please update your calendar.",64,0,0,0
+ham,"Congrats on the new job, that's fantastic news!",47,1,0,0
+ham,The package you ordered has shipped and should arrive Monday.,61,0,0,0
+spam,"Your loan has been approved! Click the link to receive $10,000 instantly.",73,1,1,1
+ham,Let's plan a trip to the mountains sometime this summer.,56,0,0,0
+spam,FINAL NOTICE: Your car warranty is about to expire. Call now to renew.,70,0,0,0
+spam,"Cheap Rolex watches, 90% off retail price, order now while supplies last.",73,0,0,0
+spam,"You've been pre-approved for a credit card with a $25,000 limit!",64,1,0,1
+spam,"Your package could not be delivered, click here to reschedule and pay a fee.",76,0,1,0
+ham,"Thanks for dinner last night, it was great catching up.",55,0,0,0
+spam,URGENT: Your account has been suspended. Verify your details immediately.,73,0,0,0
+spam,Hot singles in your area are waiting to chat with you right now!,64,1,0,0
+ham,Can you review this document and send feedback by Friday?,57,0,0,0
